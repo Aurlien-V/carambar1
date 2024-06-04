@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: yellow; /* Fond jaune */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: red; /* Texte "Carambar" en rouge */
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #333; /* Couleur de texte */
+    font-size: 18px;
+}
